@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=280&section=header&text=Haoheng%20Zhao&fontSize=80&fontAlignY=32&animation=fadeIn&fontColor=000000&desc=Patience%20is%20key%20in%20life&descSize=22&descAlignY=62" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=Haoheng%20Zhao&fontSize=78&fontAlignY=34&animation=fadeIn&fontColor=000000&desc=Patience%20is%20key%20in%20life&descSize=22&descAlignY=66" />
+
 
 
