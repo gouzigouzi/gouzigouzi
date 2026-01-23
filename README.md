@@ -38,8 +38,15 @@ Here are some ideas to get you started:
 <!-- 添加动态波浪分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-🌱 Hi, I'm Haoheng Zhao, a Master’s student at Zhejiang University (ZJU).
+🌱 Hi, I'm Haoheng Zhao, a Master’s student at **Zhejiang University** (ZJU).
 
 🔭 I’m currently focused on **machine learning**, **data mining**, **time-series modeling**, and **intelligent systems**, and I enjoy turning research ideas into practical projects. Previously, I worked on **autonomous driving**, including **behavior decision-making**, **motion planning**, and **control**. Going forward, I’m also exploring **large language models (LLMs)** and their applications in real-world systems.
 
+<!-- 贡献蛇形图 - 优化显示效果 -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
