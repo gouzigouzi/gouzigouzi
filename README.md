@@ -1,18 +1,3 @@
-<!--
-**gouzigouzi/gouzigouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
@@ -41,6 +26,15 @@ Here are some ideas to get you started:
 🌱 Hi, I'm Haoheng Zhao, a Master’s student at **Zhejiang University** (ZJU).
 
 🔭 I’m currently focused on **machine learning**, **data mining**, **time-series modeling**, and **intelligent systems**, and I enjoy turning research ideas into practical projects. Previously, I worked on **autonomous driving**, including **behavior decision-making**, **motion planning**, and **control**. Going forward, I’m also exploring **large language models (LLMs)** and their applications in real-world systems.
+
+📫 How to reach me: [haohengzhao@zju.edu.cn](mailto:haohengzhao@zju.edu.cn).
+
+<!-- <div align="center">
+
+<img alt="github stats" style="height:199px" src="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=default&rank_icon=percentile" />
+<img style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8" />
+
+</div> -->
 
 <!-- 贡献蛇形图 - 优化显示效果 -->
 <div align="center">
