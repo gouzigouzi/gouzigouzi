@@ -34,4 +34,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/stars/gouzigouzi?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
 </p>
 
+/div>
+
+🌱 Hi, I'm Haoheng Zhao, a Master’s student at Zhejiang University (ZJU).
+
+🔭 I’m currently focused on **machine learning**, **data mining**, **time-series modeling**, and **intelligent systems**, and I enjoy turning research ideas into practical projects. Previously, I worked on **autonomous driving**, including **behavior decision-making**, **motion planning**, and **control**. Going forward, I’m also exploring **large language models (LLMs)** and their applications in real-world systems.
+
 
