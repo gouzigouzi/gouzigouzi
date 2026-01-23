@@ -18,5 +18,14 @@ Here are some ideas to get you started:
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=Haoheng%20Zhao&fontSize=78&fontAlignY=34&animation=fadeIn&fontColor=000000&desc=Patience%20is%20key%20in%20life&descSize=22&descAlignY=66" />
 
+  <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
+  <p align="center">
+    <p align="center">
+    <a href="https://github.com/gouzigouzi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:haohengzhao@zju.edu.cn"><img src="https://img.shields.io/badge/Email-1E88E5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+    <a href="https://www.xiaohongshu.com/user/profile/60e704a9000000000101f513"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
+    <a href="https://www.douyin.com/user/self?from_tab_name=main"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音"/>
+    <a href="https://space.bilibili.com/456302601?spm_id_from=333.1387.0.0"><img src="https://img.shields.io/badge/bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili"/>
+</p>
 
 
