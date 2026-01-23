@@ -33,8 +33,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/gouzigouzi?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/gouzigouzi?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
 </p>
-
 </div>
+
+<!-- 添加动态波浪分隔符 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 🌱 Hi, I'm Haoheng Zhao, a Master’s student at Zhejiang University (ZJU).
 
