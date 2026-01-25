@@ -1,20 +1,20 @@
-name: generate github-contribution-grid-snake
- 
+name: generate animation
+
 on:
-  # run automatically every 2 hours
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */2 * * *" 
+    - cron: "0 */24 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
-    - master
+    - main
     
   
- 
+
 jobs:
   generate:
     permissions: 
@@ -41,4 +41,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
