@@ -4,7 +4,7 @@ on:
   schedule:
     # equal UTC/GMT+8 "30 5,17 * * *"
     # - cron: "30 9,21 * * *"
-    - cron: "0 1 * * *"
+    - cron: "*/5 * * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
