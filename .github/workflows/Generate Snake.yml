@@ -6,7 +6,7 @@ on:
 
   schedule:
 
-    - cron: "*/10 * * * *"
+    - cron: "0 */24 * * *" 
 
   
 
@@ -16,13 +16,13 @@ on:
 
   
 
-  # run on every push on the master branch
+  # run on every push on the main branch
 
   push:
 
     branches:
 
-    - master
+    - main
 
     
 
@@ -55,12 +55,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          
 
           
 
