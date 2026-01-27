@@ -3,8 +3,8 @@ name: Generate Snake Animation
 on:
   schedule:
     # equal UTC/GMT+8 "30 5,17 * * *"
-    # - cron: "30 9,21 * * *"
-    - cron: "*/10 * * * *"
+    - cron: "30 9,21 * * *"
+    # - cron: "*/10 * * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
