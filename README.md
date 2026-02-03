@@ -51,5 +51,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gouzigouzi&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouzigouzi&theme=radical" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouzigouzi&theme=radical" width="33%" />
+</div>
 
+
+<div align="center">
+<img alt="github stats" style="height:199px" src="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=default&rank_icon=percentile" />
+<img style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gouzigouzi" />
 </div>
