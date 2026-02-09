@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=Haoheng%20Zhao&fontSize=78&fontAlignY=34&animation=fadeIn&fontColor=000000&desc=Patience%20is%20key%20in%20life&descSize=22&descAlignY=66" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=220&section=header&text=Haoheng%20Zhao&fontSize=78&fontAlignY=34&animation=fadeIn&fontColor=000000&desc=Patience%20is%20the%20key%20in%20life&descSize=22&descAlignY=66" />
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
