@@ -55,6 +55,11 @@
 </div>
 
 
+<div align="center">
+<img alt="github stats" style="height:199px" src="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=default&rank_icon=percentile" />
+<img style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8" />
+</div>
+
 <!-- <div align="center">
 <img alt="github stats" style="height:199px" src="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=default&rank_icon=percentile" />
 <img style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8" />
