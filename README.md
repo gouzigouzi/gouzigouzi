@@ -54,8 +54,16 @@
 
 
 <div align="center">
-<img alt="github stats" style="height:199px" src="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=default&rank_icon=percentile" />
-<img style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=dark&rank_icon=percentile" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=default&rank_icon=percentile" />
+  <img alt="github stats" style="height:199px" src="https://github-readme-stats.vercel.app/api?username=gouzigouzi&show_icons=true&theme=default&rank_icon=percentile" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8&theme=default" />
+  <img style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouzigouzi&layout=compact&langs_count=8&theme=default" />
+</picture>
 </div>
 
 <!-- <div align="center">
